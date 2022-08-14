@@ -1,0 +1,11 @@
+E:\VB.NEt\customControl\TestControl\bin\Debug\TestControl.exe.config
+E:\VB.NEt\customControl\TestControl\bin\Debug\TestControl.exe
+E:\VB.NEt\customControl\TestControl\bin\Debug\TestControl.pdb
+E:\VB.NEt\customControl\TestControl\bin\Debug\customControl.dll
+E:\VB.NEt\customControl\TestControl\bin\Debug\customControl.pdb
+E:\VB.NEt\customControl\TestControl\obj\Debug\TestControl.csprojResolveAssemblyReference.cache
+E:\VB.NEt\customControl\TestControl\obj\Debug\TestControl.Form1.resources
+E:\VB.NEt\customControl\TestControl\obj\Debug\TestControl.Properties.Resources.resources
+E:\VB.NEt\customControl\TestControl\obj\Debug\TestControl.csproj.GenerateResource.Cache
+E:\VB.NEt\customControl\TestControl\obj\Debug\TestControl.exe
+E:\VB.NEt\customControl\TestControl\obj\Debug\TestControl.pdb

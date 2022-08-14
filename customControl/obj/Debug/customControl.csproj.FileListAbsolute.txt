@@ -1,0 +1,6 @@
+E:\VB.NEt\customControl\customControl\bin\Debug\customControl.dll
+E:\VB.NEt\customControl\customControl\bin\Debug\customControl.pdb
+E:\VB.NEt\customControl\customControl\obj\Debug\customControl.comboSerial.resources
+E:\VB.NEt\customControl\customControl\obj\Debug\customControl.csproj.GenerateResource.Cache
+E:\VB.NEt\customControl\customControl\obj\Debug\customControl.dll
+E:\VB.NEt\customControl\customControl\obj\Debug\customControl.pdb
